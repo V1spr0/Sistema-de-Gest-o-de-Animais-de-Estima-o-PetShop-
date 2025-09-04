@@ -1,1 +1,1 @@
-# Sistema de Gestão de-Animais (Petshop)
+# Sistema de Gestão de Animais (Petshop)
